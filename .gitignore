@@ -33,4 +33,4 @@ build/
 .vscode/
 
 # Database configuration
-src/main/resources/database.properties
+src/main/resources/application.properties
