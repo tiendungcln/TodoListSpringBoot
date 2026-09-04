@@ -1,0 +1,6 @@
+spring.application.name=
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/TEN_DATABASE
+spring.datasource.username=postgres
+spring.datasource.password=MAT_KHAU_POSTGRES
+spring.datasource.driver-class-name=org.postgresql.Driver
